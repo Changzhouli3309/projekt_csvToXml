@@ -1,5 +1,5 @@
 # projekt_csvToXml
-This project can .xml file base on data from a .csv file.
+This project can make a .xml file base on data from a .csv file.
 
 # How to use:
 1. Put your .csv file in file folder \projekt_csvToXml
