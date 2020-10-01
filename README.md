@@ -9,4 +9,4 @@ This project can make a .xml file base on data from a .csv file.
 5. Get your .xml file in file folder \projekt_csvToXml
 
 # Note:
-Use comma and break line as delitmited in your .csv file
+Use comma and break line as delitmited for your data in .csv file
